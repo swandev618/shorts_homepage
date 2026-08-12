@@ -493,7 +493,7 @@ document.querySelector(".privacy-toggle")?.addEventListener("click", (e) => {
 
 /* ================= 상담 폼 (Formspree 연동) ================= */
 // ▼▼▼ 여기에 Formspree 폼 ID만 넣으세요 (예: "abcdwxyz" → https://formspree.io/f/abcdwxyz 의 뒷부분)
-const FORMSPREE_ID = ""; // ← 가입 후 발급받은 폼 ID 붙여넣기
+const FORMSPREE_ID = "mljrjvbj"; // ← 가입 후 발급받은 폼 ID 붙여넣기
 // ▲▲▲
 
 document.querySelector("#contactForm")?.addEventListener("submit", async (e) => {
